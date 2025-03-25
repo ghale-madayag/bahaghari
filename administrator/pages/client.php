@@ -9,7 +9,7 @@
                     <br/>
                     <div class="card-body table-responsive p-0">
                     <form id="form-client-all" class="form-horizontal" enctype="multipart/form-data" method="post">
-                        <table id="client-all" class="table table-striped client-all" cellspacing="0">
+                        <table id="client-all" class="table table-striped client-all w-100" cellspacing="0">
                             <thead>
                                 <tr>
                                     <th width="5"><div style="display: none;"><input type="checkbox" id="select-all"><label for="select-all"></label></div></th>

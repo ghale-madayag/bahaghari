@@ -9,7 +9,7 @@
                     <br/>
                     <div class="card-body table-responsive p-0">
                     <form id="form-client-all" class="form-horizontal" enctype="multipart/form-data" method="post">
-                        <table id="client-all" class="table table-striped client-all" cellspacing="0">
+                        <table id="client-all" class="table table-striped client-all w-100" cellspacing="0">
                             <thead>
                                 <tr>
                                     <th width="110">Client ID</th>
