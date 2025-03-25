@@ -17169,6 +17169,7 @@ textarea[resize='horizontal']
 .section-shaped
 {
     position: relative;
+    min-height: 100vh;
 }
 .section-shaped .stars-and-coded
 {
@@ -17218,6 +17219,7 @@ textarea[resize='horizontal']
 .section-shaped .shape-primary
 {
     background: linear-gradient(150deg, #281483 15%, #8f6ed5 70%, #d782d9 94%);
+    min-height: 100vh;
 }
 .section-shaped .shape-primary :nth-child(1)
 {
